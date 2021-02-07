@@ -352,7 +352,7 @@ models:
         options:
           - white
           - gray
-          - green
+          - blue
         default: white
         description: The background color of the section
   features_section:
