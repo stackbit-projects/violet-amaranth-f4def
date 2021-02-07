@@ -432,6 +432,7 @@ models:
               - white
               - gray
               - blue
+              -0
             default: white
             description: The background color of the section
           - type: image
